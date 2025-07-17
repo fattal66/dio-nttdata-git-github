@@ -2,7 +2,7 @@
 
 Durante este curso prático da [Digital Innovation One (DIO)](https://www.dio.me/), aprendi os principais conceitos e comandos do Git e GitHub, fundamentais para o versionamento de código no desenvolvimento de software. Abaixo estão os tópicos abordados:
 
-## 📌 Visão Geral do Curso e Ferramentas `+40XP`
+## 📌 Visão Geral do Curso e Ferramentas
 - Introdução ao versionamento de código
 - Conceito de repositórios locais e remotos
 - Ferramentas necessárias para começar com Git e GitHub
