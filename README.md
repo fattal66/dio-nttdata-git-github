@@ -37,3 +37,7 @@ Durante este curso prático da [Digital Innovation One (DIO)](https://www.dio.me
 > 📂 Repositório criado como parte do aprendizado:  
 > 👉 [Meu repositório de práticas Git](https://github.com/fattal66/dio-nttdata-git-github.git) 
 
+=======
+# dio-nttdata-git-github
+Repositório criado para registrar meu progresso no curso "Versionamento de Código com Git e GitHub", parte do bootcamp Java Básico - NTT DATA oferecido pela Digital Innovation One (DIO).  Aqui estão anotações, comandos práticos e resumos das aulas que abordam desde a instalação do Git até o uso de branches, commits, merges e autenticação com GitHub.
+>>>>>>> 6dd106bd158483fa3540e5af4cfb037c06c3569f
